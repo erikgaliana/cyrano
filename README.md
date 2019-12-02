@@ -145,9 +145,7 @@ starter-code/
 
 The url to your repository and to your deployed project
 
-[Repository Link]()
-
-[Deploy Link]()
+[Deploy Link](https://cyrano-app.herokuapp.com/)
 
 
 
@@ -159,4 +157,4 @@ The url to your repository and to your deployed project
 
 The url to your presentation slides
 
-[Slides Link](https://docs.google.com/presentation/d/1P5FIi0vHZBUcgUtmt1M4_lLCO5dwdJ4UOgtJa4ehGfk/edit?usp=sharing)
+[Slides Link](https://docs.google.com/presentation/d/1Frh8japy7cSnuAcvR2Q2peMtav2uDUv8s_auTBW3t88/edit#slide=id.p)
